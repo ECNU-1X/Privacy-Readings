@@ -34,3 +34,9 @@ ICDE workshop, 2013
 作者 Chris Clifton 是一位在隐私保护领域耕耘了数十年的普渡大学的老学者，最近他和学生的一些工作开始关注匿名数据场景下的数据挖掘任务。
 
 > Clifton, C., & Tassa, T. (2013, April). On syntactic anonymity and differential privacy. In 2013 IEEE 29th International Conference on Data Engineering Workshops (ICDEW) (pp. 88-93). IEEE.
+
+### 4. PrivBayes: private data release via bayesian networks
+用差分隐私技术生成数据集，用于高维数据发布。
+
+差分隐私向匿名技术发起了新的挑战。
+> Zhang J, Cormode G, Procopiuc C M, et al. PrivBayes: private data release via bayesian networks[J]. international conference on management of data, 2014, 42(4): 1423-1434.
